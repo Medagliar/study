@@ -2,8 +2,8 @@
 
 > Status do Projeto: Em Desenvolvimento
 
-Para roda esse projeto na sua instancia, por favor digite:
+Para rodar esse projeto na sua instancia, por favor digite:
 
 ```
-Teste de Install
+node app.js
 ```
