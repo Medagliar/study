@@ -1,1 +1,1 @@
-console.log("Rodando o Sistema de Gerenciamento")
+console.log("Rodando o Sistema de Comandos")
