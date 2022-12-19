@@ -7,3 +7,5 @@ Para rodar esse projeto na sua instancia, por favor digite:
 ```
 node app.js
 ```
+>Teste de commit
+>Teste de Push sshgit @github.com:username/projeto.git
